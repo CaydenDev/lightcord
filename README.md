@@ -1,6 +1,4 @@
 
-
-```markdown
 # Lightweight Discord Client
 
 ## Overview
@@ -64,5 +62,3 @@ For any questions or feedback, feel free to reach out:
 - **Name**: Caydendev
 - **Email**: [atzen@post.com](mailto:atzen@post.com)
 - [GitHub Profile](https://github.com/caydendev)
-
-```markdown
